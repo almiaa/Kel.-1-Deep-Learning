@@ -5,10 +5,9 @@ This project focuses on real-time cheating detection in both physical classrooms
 ## 📊 Project Overview
 | Project Title | Dataset Link | Repository Link |
 |--------------|-------------|----------------|
-| **Real-Time Object Detection for Student Cheating in a Classroom Using YOLO** | [🔗 Dataset 1]() | [📂 Classroom Cheating Repo](./Classroom-cheating-detection/) |
-| **Head Movement Tracking and Object Recognition for Preventing Cheating in Online Exams Using YOLO** | [🔗 Dataset 2]() | [📂 Head Movement Repo](./Head-movement-tracking) |
-| **Eye Activity Analysis for Silent Cheating Detection in Online Exams Using YOLO** | [🔗 Dataset 3]() | [📂 Eye Activity Repo](./Eye-activity-analysis) |
-
+| **Real-Time Object Detection for Student Cheating in a Classroom Using YOLO** | 🔗 [Dataset Link]() | 📂 [Classroom Cheating Detection](https://github.com/almiaa/Kel.-1-Deep-Learning/tree/main/Cheating%20Detection%20Yolo/Classroom%20cheating%20detection) |
+| **Head Movement Tracking and Object Recognition for Preventing Cheating in Online Exams Using YOLO** | 🔗 [Dataset Link]() | 📂 [Head Movement Tracking](https://github.com/almiaa/Kel.-1-Deep-Learning/tree/main/Cheating%20Detection%20Yolo/Head%20movement%20tracking) |
+| **Eye Activity Analysis for Silent Cheating Detection in Online Exams Using YOLO** | 🔗 [Dataset Link]() | 📂 [Eye Activity Analysis](https://github.com/almiaa/Kel.-1-Deep-Learning/tree/main/Cheating%20Detection%20Yolo/Eye%20activity%20analysis) |
 
 ## 🌍 Project Website
    Coming soon...
